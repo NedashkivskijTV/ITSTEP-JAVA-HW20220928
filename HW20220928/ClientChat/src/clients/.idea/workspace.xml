@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="895883bb-86c2-4128-b27e-10537962a30b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/exceptions/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/exceptions/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/exceptions/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/exceptions/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/exceptions/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/exceptions/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/stream_api/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/stream_api/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/stream_api/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/stream_api/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/src/edu/itstep/hw20220919_analysis/stream_api/Speciality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/pr/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921/pr/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921_analysis/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220921/src/edu/itstep/cw20220921_analysis/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/cwrepeat_files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/copy5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922/practice/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/Main08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy/MainC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy1/MainC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/copy5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/src/edu/itstep/cw20220922_repeat/practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220922/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread01/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread02/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread05/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread06/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926/thread06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread01/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread02/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread02/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread05/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread05/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220926/src/edu/itstep/cw20220926_repeat/thread6/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/ClientChat/src/client/ListenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/ClientChat/src/client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/ClientChat/src/client2/ListenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/ClientChat/src/client2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/ServerChat/src/Server/ClientListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/ServerChat/src/Server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/ServerChat/src/Server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928clientchat/src/client1/ListenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928clientchat/src/client1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928clientchat/src/client2/ListenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928clientchat/src/client2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928clientchat/src/client3/ListenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928clientchat/src/client3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928serverchat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928serverchat/src/server/ClientListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928serverchat/src/server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/cw20220928serverchat/src/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/src/edu/itstep/cw20220928/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/src/edu/itstep/cw20220928/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/src/edu/itstep/cw20220928_repeat/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220928/src/edu/itstep/cw20220928_repeat/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex1/FirstFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex2/SecondFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex3/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex4/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex5/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex5/SmileAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex6/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex7/MyFirstGuiForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20220929/src/edu/itstep/cw20220929/ex7/MyFirstGuiForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221003/src/edu/itstep/cw20221003/annotation/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221003/src/edu/itstep/cw20221003/annotation/FirstAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221003/src/edu/itstep/cw20221003/annotation/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221003/src/edu/itstep/cw20221003/reflection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221003/src/edu/itstep/cw20221003/reflection/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221003/src/edu/itstep/cw20221003/reflection/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221003/src/edu/itstep/cw20221003/reflection/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221004/lib/postgresql-42.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221004/src/edu/itstep/cw20221004/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221004/src/edu/itstep/cw20221004/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/CW20221004/src/edu/itstep/cw20221004/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/cw20221006/lib/postgresql-42.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/cw20221006/src/edu/itstep/cw20221006/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/cw20221006/src/edu/itstep/cw20221006/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/cw20221006/src/edu/itstep/cw20221006/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CW/cw20221006/src/edu/itstep/cw20221006/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220919/src/edu/itstep/hw20220919/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220919/src/edu/itstep/hw20220919/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220919/src/edu/itstep/hw20220919/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220919/src/edu/itstep/hw20220919/Speciality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/JobTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220921/src/edu/itstep/hw20220921/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220922/src/edu/itstep/hw20220922/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220922/src/edu/itstep/hw20220922/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220922/src/edu/itstep/hw20220922/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220922/src/edu/itstep/hw20220922/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220922/src/edu/itstep/hw20220922/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220922/src/edu/itstep/hw20220922/QuestionDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../HW20220922/src/edu/itstep/hw20220922/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/ListenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client2/ListenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ServerChat/src/server/ClientListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ServerChat/src/server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ServerChat/src/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CW/CW20220919/out/production/CW20220919/edu/itstep/cw20220919/exceptions/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CW/CW20220919/out/production/CW20220919/edu/itstep/cw20220919/exceptions/Main2.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FmISGrGfOGvAXBThSMQJVJJEf4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="895883bb-86c2-4128-b27e-10537962a30b" name="Changes" comment="" />
+      <created>1665090830305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665090830305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
